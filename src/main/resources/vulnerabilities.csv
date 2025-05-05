@@ -1,0 +1,3 @@
+groupId:artifactId,Description
+junit:junit,"CVE-2021-29425: Improper Input Validation"
+org.apache.commons:commons-lang3,"CVE-2019-10086: Incomplete Fix for CVE-2016-1000100"

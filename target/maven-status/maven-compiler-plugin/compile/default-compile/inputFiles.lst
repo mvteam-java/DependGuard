@@ -1,0 +1,7 @@
+C:\Users\makudov\Desktop\DependGuard\src\main\java\org\mvteam\analyzer\DependencyAnalyzer.java
+C:\Users\makudov\Desktop\DependGuard\src\main\java\org\mvteam\cli\Main.java
+C:\Users\makudov\Desktop\DependGuard\src\main\java\org\mvteam\model\Dependency.java
+C:\Users\makudov\Desktop\DependGuard\src\main\java\org\mvteam\report\HTMLReportGenerator.java
+C:\Users\makudov\Desktop\DependGuard\src\main\java\org\mvteam\util\CsvLoader.java
+C:\Users\makudov\Desktop\DependGuard\src\main\java\org\mvteam\vulnerability\NvdVulnerabilityChecker.java
+C:\Users\makudov\Desktop\DependGuard\src\main\java\org\mvteam\vulnerability\VulnerabilityChecker.java

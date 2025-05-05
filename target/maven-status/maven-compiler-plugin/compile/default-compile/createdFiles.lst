@@ -1,0 +1,7 @@
+org\mvteam\analyzer\DependencyAnalyzer.class
+org\mvteam\report\HTMLReportGenerator.class
+org\mvteam\vulnerability\VulnerabilityChecker.class
+org\mvteam\util\CsvLoader.class
+org\mvteam\vulnerability\NvdVulnerabilityChecker.class
+org\mvteam\cli\Main.class
+org\mvteam\model\Dependency.class
