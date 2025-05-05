@@ -49,11 +49,17 @@ mvn clean package
 java -jar dependguard.jar /path/to/project [options]
 ```
 # Vulnerability check
+```
 java -jar dependguard.jar ~/projects/my-java-app
+```
 # With NVD API key and update check
+```
 java -jar dependguard.jar ~/projects/my-java-app --api-key YOUR_NVD_KEY --check-updates
+```
 # Offline mode
+```
 java -jar dependguard.jar ~/projects/my-java-app --offline
+```
 
 ---
 
